@@ -1,2 +1,15 @@
+<html>
+
+<head>
+
+<title>Hello World</title>
+
+</head>
+
+<body>
+
 <h1>Hello World!</h1>
-<img src='/images/cute_grey_kitten.jpg' alt='Cute Grey Kitten'>
+<img src='/images/kitten.jpg' alt='Adorable kitten'>
+</body>
+
+</html>
